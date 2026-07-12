@@ -1,6 +1,6 @@
-# Oreon Technologies
+# Zynovex Technologies
 
-Welcome to Oreon Technologies!
+Welcome to Zynovex Technologies!
 
 We specialize in:
 
